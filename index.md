@@ -8,11 +8,11 @@ title: "Home"
 Principal Machine Learning & Optimization Engineer at Energy Vault
 Lead Engineer on DOE funded project for Impact Innovation
 
-🎓 Ph.D. in AI-ML for Uncertain renewable driven power system
+🎓 Ph.D. in AI-ML for renewable driven power system  
 🏆 M5 Forecasting Competition – *Top 1% worldwide*  
 🔬 DOE-funded Researcher on multiple energy and power system related projects  
-💸 Awardee of DOE grand for Small Business Initiative
-📈 Pioneering AI-ML augmented Battery Bidding & Forecasting Frameworks  
+💸 Awardee of $200000 DOE grand for Small Business Initiative  
+🏆 recipient of extraordinary work visa by the U.S. government.  
 📍 Based in Denver metro area, USA
 
 ---
@@ -20,7 +20,7 @@ Lead Engineer on DOE funded project for Impact Innovation
 
 ## 🔧 What I Do
 
-- 🧠 Develop intelligent forecasting + bidding models for electricity markets  
+- 🧠 Develop intelligent forecasting + bidding models for renewable driven electricity markets  
 - ⚙️ Blend ML + optimization to create revenue-maximizing portfolio strategies  
 - 🌍 Lead research at the intersection of AI and climate-focused engineering
 
