@@ -12,7 +12,7 @@ Lead Engineer on DOE funded project for Impact Innovation
 🏆 M5 Forecasting Competition – *Top 1% worldwide*  
 🔬 DOE-funded Researcher on multiple energy and power system related projects  
 💸 Awardee of $200000 DOE grand for Small Business Initiative  
-🏆 recipient of extraordinary work visa by the U.S. government.  
+🏆 Recipient of extraordinary work visa by the U.S. government.  
 📍 Based in Denver metro area, USA
 
 ---
