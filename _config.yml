@@ -1,4 +1,7 @@
-title: Sujal Bhavsar
+title: Sujal Bhavsar, Ph.D.
 description: >-
-  Principal Machine Learning & Optimization Engineer | AI in Power Systems | Electricity Markets | Forecasting | Optimization
-theme: jekyll-theme-cayman
+  Principal Machine Learning & Optimization Engineer | AI in Energy Systems | Electricity Markets | Forecasting | Optimization
+theme: jekyll-theme-minimal
+logo: /assets/profile.png   # optional: upload your profile photo to /assets/
+show_downloads: false
+google_analytics: ""        # Add your GA ID if you want tracking
