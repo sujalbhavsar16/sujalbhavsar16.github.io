@@ -5,7 +5,7 @@ title: "Home"
 
 # 👨‍🔬 Sujal Bhavsar 
 
-Principal Machine Learning & Optimization Engineer at Energy Vault
+Principal Machine Learning & Optimization Engineer at Energy Vault  
 Lead Engineer on DOE funded project for Impact Innovation
 
 🎓 Ph.D. in AI-ML for renewable driven power system  
